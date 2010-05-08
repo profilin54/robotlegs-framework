@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2009 the original author or authors
  * 
  * Permission is hereby granted to use, modify, and distribute this file 
@@ -10,7 +10,7 @@ package org.robotlegs.core
 	import flash.events.IEventDispatcher;
 	
 	/**
-	 * The Robotlegs Context contract
+	 * The Robotlegs Context contract - GIT
 	 */
 	public interface IContext
 	{
